@@ -1,25 +1,25 @@
-OP_CARRIER,CARRIER_NAME
-XE,ExpressJet
-YV,Mesa Airlines
-NW,Northwest Airlines
-OH,Comair
-OO,SkyWest
-UA,United Airlines
-US,US Airways
-WN,Southwest Airlines
-EV,Atlantic Southeast Airlines
-F9,Frontier Airlines
-FL,AirTran Airways
-HA,Hawaiian Airlines
-MQ,American Eagle Airlines
-9E,Pinnacle Airlines
-AA,American Airlines
-AS,Alaska Airlines
-B6,JetBlue Airways
-CO,Continental Airlines
-CO,Continental Express
-DL,Delta Air Lines
-G4,Allegiant Air
-NK,Spirit Airlines
-VX,Virgin America
-YX,Midwest Airlines
+OP_CARRIER,CARRIER_NAME,CARRIER_COUNTRY,CARRIER_TYPE
+XE,ExpressJet,USA,Regional
+YV,Mesa Airlines,USA,Regional
+NW,Northwest Airlines,USA,Major
+OH,Comair,USA,Regional
+OO,SkyWest,USA,Regional
+UA,United Airlines,USA,Major
+US,US Airways,USA,Major
+WN,Southwest Airlines,USA,Low-cost
+EV,Atlantic Southeast Airlines,USA,Regional
+F9,Frontier Airlines,USA,Low-cost
+FL,AirTran Airways,USA,Low-cost
+HA,Hawaiian Airlines,USA,Major
+MQ,American Eagle Airlines,USA,Regional
+9E,Pinnacle Airlines,USA,Regional
+AA,American Airlines,USA,Major
+AS,Alaska Airlines,USA,Major
+B6,JetBlue Airways,USA,Low-cost
+CO,Continental Airlines,USA,Major
+CO,Continental Express,USA,Regional
+DL,Delta Air Lines,USA,Major
+G4,Allegiant Air,USA,Low-cost
+NK,Spirit Airlines,USA,Low-cost
+VX,Virgin America,USA,Low-cost
+YX,Midwest Airlines,USA,Regional
