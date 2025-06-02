@@ -1,5 +1,11 @@
-code,reason,category
-A,Airline/Carrier,Carrier
-B,Weather,Weather
-C,National Air System,NAS
-D,Security,Security
+code,reason,category,description
+A,Airline/Carrier,Cancellation,Lot anulowany z powodu problemów przewoźnika
+B,Weather,Cancellation,Lot anulowany z powodu warunków pogodowych
+C,National Air System,Cancellation,Lot anulowany z powodu problemów krajowego systemu lotniczego
+D,Security,Cancellation,Lot anulowany z powodów bezpieczeństwa
+CD,Carrier Delay,Delay,Opóźnienie spowodowane przez przewoźnika
+WD,Weather Delay,Delay,Opóźnienie spowodowane warunkami pogodowymi
+ND,National Air System Delay,Delay,Opóźnienie spowodowane przez krajowy system lotniczy
+SD,Security Delay,Delay,Opóźnienie z powodów bezpieczeństwa
+LD,Late Aircraft Delay,Delay,Opóźnienie spowodowane późnym przybyciem samolotu
+DV,Diverted Flight,Diversion,Lot przekierowany na inne lotnisko niż docelowe
